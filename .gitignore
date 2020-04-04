@@ -26,3 +26,4 @@ hs_err_pid*
 
 #CONFIG DB
 DBConfigsrc\main\java\grupod\activitymanagerapi\Configuration\DBConfig.java
+/src/main/java/grupod/activitymanagerapi/Configuration/
